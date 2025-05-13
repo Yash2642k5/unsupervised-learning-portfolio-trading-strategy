@@ -40,7 +40,3 @@ This project implements a momentum-based equity portfolio strategy for the S&P 5
 
 ## Limitation
 - Uses the current list of S&P 500 stocks, leading to potential survivorship bias in backtesting.
-- Stocks that were delisted or not part of the index historically are still included retroactively.
-- Bias may inflate returns compared to realistic, point-in-time index constituents.
-- Accurate evaluation would require historical membership data, which is not included here.
-- Survivorship-free data is necessary for institution-grade backtesting and real-world deployment.
