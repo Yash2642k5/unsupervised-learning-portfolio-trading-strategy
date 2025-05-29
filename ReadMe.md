@@ -40,3 +40,4 @@ This project implements a momentum-based equity portfolio strategy for the S&P 5
 
 ## Limitation
 - Uses the current list of S&P 500 stocks, leading to potential survivorship bias in backtesting.
+- Strategy is buy-only
